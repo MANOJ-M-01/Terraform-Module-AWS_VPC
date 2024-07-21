@@ -5,3 +5,11 @@ variable "cidr_block" {
 variable "env" {
   default = "dev"
 }
+
+variable "enable_dns_support" {
+  default = false
+}
+
+variable "enable_dns_hostnames" {
+  default = false
+}
