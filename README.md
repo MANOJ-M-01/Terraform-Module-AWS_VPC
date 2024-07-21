@@ -1,5 +1,5 @@
 # Usage
-This module will be used in 
+This module is used in 
 
 https://github.com/MANOJ-M-01/Terraform-Project-Structure/tree/main/v3/envs/dev/vpc  
 
