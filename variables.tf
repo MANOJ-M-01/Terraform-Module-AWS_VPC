@@ -7,9 +7,9 @@ variable "env" {
 }
 
 variable "enable_dns_support" {
-  default = false
+  default = true
 }
 
 variable "enable_dns_hostnames" {
-  default = false
+  default = true
 }
